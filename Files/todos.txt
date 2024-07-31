@@ -1,7 +1,6 @@
 repair
 play
-a new member
 python
-master python342
 my newest todo is this one
 now real last to do
+clean the house
