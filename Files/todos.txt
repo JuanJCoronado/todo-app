@@ -1,6 +1,6 @@
 repair
 play
 python
-my newest todo is this one
-now real last to do
+learn more Python
 clean the house
+test
